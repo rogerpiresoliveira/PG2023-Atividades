@@ -1,0 +1,2 @@
+3. Utilizando a câmera 2D do exercício anterior, desenhe algo na tela. O que acontece quando posicionamos os objetos? Por que é útil essa configuração?
+Os objetos ficam menores. Para "corrigir", é necessário multiplicar as coordenadas dos eixos pois a projeção está mais distante, e, por consequência, "diminui" o tamanho dos objetos. Ela é útil pois abstrai a necessidade de trabalhar com números absolutos e limitados (-1 a 1) de coordenadas.

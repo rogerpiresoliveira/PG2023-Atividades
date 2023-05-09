@@ -1,0 +1,4 @@
+3. Explique o que é VBO, VAO e EBO, e como se relacionam (se achar mais fácil, pode fazer um gráfico representando a relação entre eles).
+VBO é usado para geranciar a memória que contem os vértices.
+EBO é uma "tática" usada para otimizar a aplicação e diminuir a quantidade de vértices repetidos. Ele gerencia somente as coordenadas que serão renderizadas.
+VAO é como se fosse um objeto que armazenas as características e configurações do VBO para uso fututo.

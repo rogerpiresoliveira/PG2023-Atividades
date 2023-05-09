@@ -1,0 +1,2 @@
+2. O que são primitivas gráficas? Como fazemos o armazenamento dos vértices na OpenGL?
+As primitivas gráficas são a unidade mínima de "desenho" que podemos usar. Os vértices são armazenados em um buffer.
